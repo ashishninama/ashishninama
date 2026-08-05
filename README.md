@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ashish Ninama
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Engineering+(AI);AI+%26+Machine+Learning+Learner;Python+Programmer;Prompt+Engineering+Learner;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(AI);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,19 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering (Artificial Intelligence)
+- 🎓 B.Tech Computer Engineering (Specialization in Artificial Intelligence)
+- 🎯 Future AI/ML Engineer
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🐍 Learning Python for AI & ML
-- 💡 Exploring Data Science, Deep Learning & Generative AI
-- 💬 Learning Prompt Engineering & Large Language Models (LLMs)
-- 📚 Building a strong foundation in Programming and Problem Solving
-- 🚀 Interested in creating real-world AI applications
-- 🌱 Always learning and improving my skills
+- 🐍 Python Developer
+- 💻 Building a strong foundation in Programming & Problem Solving
+- 💡 Learning Machine Learning, Deep Learning & Generative AI
+- 💬 Exploring Prompt Engineering & Large Language Models (LLMs)
+- 🚀 Building real-world projects to improve my AI development skills
+- 📚 Always learning new technologies
 
 ---
 
-# 🚀 Skills
+# 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
 
@@ -29,27 +30,17 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
 </p>
 
-- 🐍 Python (Basics)
-- ⚙️ C
-- 🚀 C++
-- ☕ Java
-- 🗄️ MySQL
+### 🤖 AI & Data
 
----
-
-### 🤖 AI & Machine Learning
-
-- Artificial Intelligence (Learning)
-- Machine Learning (Learning)
+- Artificial Intelligence
+- Machine Learning
 - Prompt Engineering
-- NumPy (Basics)
-- Pandas (Basics)
-- Scikit-learn (Basics)
+- NumPy
+- Pandas
+- Scikit-learn
 - TensorFlow (Basics)
 
----
-
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -61,21 +52,21 @@
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- 📊 Data Science
 - 🔥 Deep Learning
 - 💬 Prompt Engineering
-- 🐍 Advanced Python
 - 🌐 Generative AI
+- 📊 Data Science
+- 🐍 Advanced Python
 
 ---
 
 # 🎯 Career Goal
 
-I am currently learning Artificial Intelligence and Machine Learning and continuously improving my programming skills. My goal is to become an AI/ML Engineer by building practical projects, contributing to open source, and gaining hands-on experience with modern AI technologies.
+> **To become a skilled AI/ML Engineer by continuously learning, building real-world AI projects, contributing to open source, and solving real-world problems using Artificial Intelligence.**
 
 ---
 
@@ -92,26 +83,6 @@ I am currently learning Artificial Intelligence and Machine Learning and continu
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishninama&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ashishninama">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
 
 </p>
 
@@ -137,12 +108,32 @@ I am currently learning Artificial Intelligence and Machine Learning and continu
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ashishninama">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### 💡 *"Learning Today, Building Tomorrow."*
+## 💡 *"Learning AI Today • Building Intelligent Solutions Tomorrow."*
 
 ⭐ Thanks for visiting my profile ⭐
 
-![](https://komarev.com/ghpvc/?username=ashishninama&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=ashishninama&style=for-the-badge&color=0e75b6)
 
 </div>

@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(Artificial+Intelligence);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering;Always+Learning+🚀)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ashishninama&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 </div>
 
 ---
@@ -17,15 +15,15 @@
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
 - 💡 Skilled in Python, C, C++, Java, MySQL & Prompt Engineering
-- 🧠 Exploring Deep Learning, Generative AI & LLMs
-- 🚀 Building real-world AI projects and continuously improving my skills
-- 🌱 Lifelong learner passionate about solving real-world problems with AI
+- 🧠 Exploring Deep Learning, Generative AI & Large Language Models (LLMs)
+- 🚀 Building AI projects to strengthen my practical skills
+- 🌱 Lifelong learner passionate about solving real-world problems using AI
 
 ---
 
 # 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
@@ -34,7 +32,7 @@
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 - Artificial Intelligence
@@ -44,8 +42,9 @@
 - Pandas
 - Scikit-learn
 - TensorFlow
+- PyTorch (Learning)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -55,58 +54,51 @@
 
 # 🌱 Currently Learning
 
+- 🤖 Machine Learning
 - 🧠 Deep Learning
-- 🤖 Generative AI
-- 💬 Large Language Models (LLMs)
+- 🔥 Generative AI
+- 💬 Prompt Engineering
 - 📊 Data Science
-- ⚡ Advanced Machine Learning
-- 🚀 AI Application Development
+- 🤖 Large Language Models (LLMs)
 
 ---
 
-# 🎯 Career Objective
+# 🎯 Current Focus
 
-> **To become a skilled AI/ML Engineer by building intelligent applications, continuously learning new technologies, and contributing to impactful AI projects.**
+- 🚀 Building AI & Machine Learning Projects
+- 📖 Strengthening DSA & Python
+- 💻 Exploring AI Frameworks
+- 🌍 Contributing to Open Source
 
 ---
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishninama&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=ashishninama&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishninama&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishninama&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏅 Skills
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishninama&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ashishninama/ashishninama/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</p>
-
-> **Note:** The snake animation works after you add a GitHub Action to your profile repository.
 
 ---
 
@@ -132,9 +124,9 @@
 
 <div align="center">
 
-## 💡 *"Learn • Build • Innovate • Grow"*
+## 💡 Quote
 
-### 🚀 Future AI/ML Engineer | Building Intelligent Solutions with Code
+### *"Every expert was once a beginner. Today I learn, tomorrow I build intelligent solutions."*
 
 ⭐ **Thanks for visiting my profile!**
 

@@ -1,51 +1,40 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Ninama
+# 👋 Hey, I'm Ashish Ninama
 
-### 🚀 Future AI/ML Engineer | Python Developer | B.Tech Computer Engineering (Artificial Intelligence)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(Artificial+Intelligence);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering;Always+Learning+🚀)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Prompt+Engineering+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies+🚀" />
-
-<img src="https://komarev.com/ghpvc/?username=ashishninama&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=ashishninama&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 **B.Tech Computer Engineering** *(Specialization in Artificial Intelligence)*
-
-I'm passionate about Artificial Intelligence and continuously improving my skills to become an AI/ML Engineer.
-
-I enjoy building intelligent applications, exploring new AI technologies, and solving real-world problems through code.
-
-- 🤖 Future AI/ML Engineer
+- 🎓 B.Tech Computer Engineering (Specialization in Artificial Intelligence)
+- 🎯 Future AI/ML Engineer
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
-- 🧠 Machine Learning Enthusiast
-- 💬 Prompt Engineering
-- 📚 Learning Deep Learning & Generative AI
-- 🚀 Open Source Learner
-- 🌱 Lifelong Learner
+- 💡 Skilled in Python, C, C++, Java, MySQL & Prompt Engineering
+- 🧠 Exploring Deep Learning, Generative AI & LLMs
+- 🚀 Building real-world AI projects and continuously improving my skills
+- 🌱 Lifelong learner passionate about solving real-world problems with AI
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
 </p>
 
-### AI & Machine Learning
+### 🤖 AI / Machine Learning
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 - Artificial Intelligence
@@ -56,76 +45,68 @@ I enjoy building intelligent applications, exploring new AI technologies, and so
 - Scikit-learn
 - TensorFlow
 
-### Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
 # 🌱 Currently Learning
 
-```text
-✓ Machine Learning
-✓ Deep Learning
-✓ Generative AI
-✓ Large Language Models (LLMs)
-✓ Prompt Engineering
-✓ AI Application Development
-```
+- 🧠 Deep Learning
+- 🤖 Generative AI
+- 💬 Large Language Models (LLMs)
+- 📊 Data Science
+- ⚡ Advanced Machine Learning
+- 🚀 AI Application Development
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Career Objective
 
-- 🤖 Become a Skilled AI/ML Engineer
-- 📈 Build Real-World AI Projects
-- 🚀 Contribute to Open Source
-- 🧠 Master Deep Learning
-- 🌍 Develop AI Solutions that Solve Real Problems
+> **To become a skilled AI/ML Engineer by building intelligent applications, continuously learning new technologies, and contributing to impactful AI projects.**
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishninama&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishninama&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=ashishninama&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishninama&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishninama&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Interests
+# 🐍 Contribution Snake
 
-🤖 Artificial Intelligence
+<p align="center">
 
-🧠 Machine Learning
+<img src="https://raw.githubusercontent.com/ashishninama/ashishninama/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-🐍 Python
+</p>
 
-💬 Prompt Engineering
-
-📊 Data Science
-
-⚡ Deep Learning
-
-🌐 Generative AI
+> **Note:** The snake animation works after you add a GitHub Action to your profile repository.
 
 ---
 
@@ -137,7 +118,7 @@ I enjoy building intelligent applications, exploring new AI technologies, and so
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -151,10 +132,10 @@ I enjoy building intelligent applications, exploring new AI technologies, and so
 
 <div align="center">
 
-## 💙 Quote
+## 💡 *"Learn • Build • Innovate • Grow"*
 
-### *"Learning AI Today, Building Intelligent Solutions for Tomorrow."*
+### 🚀 Future AI/ML Engineer | Building Intelligent Solutions with Code
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **Thanks for visiting my profile!**
 
 </div>

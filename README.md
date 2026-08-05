@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Ashish Ninama
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(AI);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering+Learner;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(AI);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,12 @@
 
 - 🎓 B.Tech Computer Engineering (Specialization in Artificial Intelligence)
 - 🎯 Future AI/ML Engineer
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🐍 Python Developer
-- 💻 Building a strong foundation in Programming & Problem Solving
-- 💡 Learning Machine Learning, Deep Learning & Generative AI
-- 💬 Exploring Prompt Engineering & Large Language Models (LLMs)
-- 🚀 Building real-world projects to improve my AI development skills
-- 📚 Always learning new technologies
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
+- 🐍 Python Developer with a strong interest in AI applications
+- 💡 Skilled in Python, C, C++, Java, MySQL & Prompt Engineering
+- 🧠 Building AI & Machine Learning projects to strengthen practical knowledge
+- 🚀 Interested in solving real-world problems using Artificial Intelligence
+- 📚 Continuously learning new technologies and improving my development skills
 
 ---
 
@@ -30,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
 </p>
 
-### 🤖 AI & Data
+### 🤖 AI / Machine Learning
 
 - Artificial Intelligence
 - Machine Learning
@@ -38,35 +37,35 @@
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow (Basics)
+- TensorFlow
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-- Git & GitHub
+- Git
+- GitHub
 - VS Code
 - Linux
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Currently Exploring
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 💬 Prompt Engineering
-- 🌐 Generative AI
+- 🧠 Deep Learning
+- 🤖 Generative AI
+- 💬 Large Language Models (LLMs)
 - 📊 Data Science
-- 🐍 Advanced Python
+- ⚡ Advanced Machine Learning
+- 🚀 AI Application Development
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Objective
 
-> **To become a skilled AI/ML Engineer by continuously learning, building real-world AI projects, contributing to open source, and solving real-world problems using Artificial Intelligence.**
+> **Aspiring to become an AI/ML Engineer by building intelligent applications, continuously improving my technical skills, and contributing to impactful AI projects.**
 
 ---
 
@@ -130,7 +129,9 @@
 
 <div align="center">
 
-## 💡 *"Learning AI Today • Building Intelligent Solutions Tomorrow."*
+## 🤖 **Future AI/ML Engineer | Building Intelligent Solutions with Code**
+
+### *"Learn • Build • Innovate • Grow"*
 
 ⭐ Thanks for visiting my profile ⭐
 

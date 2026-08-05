@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Ashish Ninama
 
+### 🚀 Future AI/ML Engineer | Python Developer | B.Tech Computer Engineering (Artificial Intelligence)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=900&lines=Future+AI%2FML+Engineer;B.Tech+Computer+Engineering+(Artificial+Intelligence);Python+Developer;Machine+Learning+Enthusiast;Prompt+Engineering;Always+Learning+🚀)](https://git.io/typing-svg)
 
 </div>
@@ -10,29 +12,30 @@
 
 # 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering (Specialization in Artificial Intelligence)
+- 🎓 B.Tech Computer Engineering *(Specialization in Artificial Intelligence)*
 - 🎯 Future AI/ML Engineer
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
-- 💡 Skilled in Python, C, C++, Java, MySQL & Prompt Engineering
-- 🧠 Exploring Deep Learning, Generative AI & Large Language Models (LLMs)
-- 🚀 Building AI projects to strengthen my practical skills
-- 🌱 Lifelong learner passionate about solving real-world problems using AI
+- 💡 Skilled in Python, C, C++, Java, HTML, CSS & MySQL
+- 💬 Exploring Prompt Engineering & Large Language Models (LLMs)
+- 🧠 Learning Deep Learning, Data Science & Generative AI
+- 🚀 Building AI projects and continuously improving my skills
+- 🌱 Always learning new technologies
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,mysql" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
 - Artificial Intelligence
@@ -41,10 +44,9 @@
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow
-- PyTorch (Learning)
+- TensorFlow (Learning)
 
-### 🛠️ Tools
+### 🛠️ Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
@@ -54,21 +56,22 @@
 
 # 🌱 Currently Learning
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
+- 🧠 Machine Learning
+- 🤖 Deep Learning
 - 🔥 Generative AI
 - 💬 Prompt Engineering
 - 📊 Data Science
-- 🤖 Large Language Models (LLMs)
+- 🌐 Large Language Models (LLMs)
 
 ---
 
 # 🎯 Current Focus
 
 - 🚀 Building AI & Machine Learning Projects
-- 📖 Strengthening DSA & Python
-- 💻 Exploring AI Frameworks
+- 🐍 Improving Python Skills
+- 📚 Learning Advanced AI Technologies
 - 🌍 Contributing to Open Source
+- 💻 Strengthening Problem Solving
 
 ---
 
@@ -89,16 +92,29 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 </p>
+
+---
+
+# 📌 Featured Projects
+
+🚀 AI & Machine Learning Projects *(Coming Soon)*
+
+- 🤖 Machine Learning Models
+- 🧠 Deep Learning Projects
+- 💬 Prompt Engineering Experiments
+- 📊 Data Analysis Projects
+- 🐍 Python Automation Tools
 
 ---
 
@@ -126,7 +142,7 @@
 
 ## 💡 Quote
 
-### *"Every expert was once a beginner. Today I learn, tomorrow I build intelligent solutions."*
+### *"Learning AI Today, Building Intelligent Solutions for Tomorrow."*
 
 ⭐ **Thanks for visiting my profile!**
 

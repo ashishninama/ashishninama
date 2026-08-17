@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Engineering (Specialization in Artificial Intelligence)
-- 🎯 Future AI/ML Engineer
+- 🎯 AI/ML Engineer
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer
 - 💡 Skilled in Python, C, C++, Java, MySQL & Prompt Engineering
@@ -58,7 +58,6 @@
 - 🧠 Deep Learning
 - 🔥 Generative AI
 - 💬 Prompt Engineering
-- 📊 Data Science
 - 🤖 Large Language Models (LLMs)
 
 ---
